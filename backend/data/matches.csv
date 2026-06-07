@@ -667,3 +667,243 @@ id,winner,loser,player,score,player_score,venue,date,sport,gender,toss,league
 666,Hong Kong,Nepal Women,Hong Kong,149,68,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
 667,Indonesia Women,Malaysia Women,Indonesia Women,175,87,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
 668,China Women,Philippines Women,China Women,207,82,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+669,New Zealand Women,Bangladesh Women,New Zealand Women,318,154,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+670,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,137,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+671,South Africa Women,Ireland Women,South Africa Women,255,70,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+672,Scotland Women,Netherlands Women,Scotland Women,268,89,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+673,United States of America,Canada,United States of America,466,101,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+674,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,64,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+675,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,120,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+676,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,70,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+677,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,68,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+678,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,199,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+679,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,139,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+680,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,91,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+681,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,152,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+682,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,129,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+683,England,New Zealand,Ben Stokes,617,298,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+684,Oman Women,Philippines Women,Oman Women,238,53,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+685,Japan Women,Bahrain Women,Japan Women,236,65,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+686,United Arab Emirates Women,China Women,United Arab Emirates Women,76,20,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+687,Thailand Women,Myanmar Women,Thailand Women,65,16,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+688,Mongolia Women,Bahrain Women,Mongolia Women,195,64,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+689,Oman Women,Saudi Arabia Women,Oman Women,77,19,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+690,Kuwait Women,Singapore Women,Kuwait Women,191,52,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+691,Hong Kong,Nepal Women,Hong Kong,149,63,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+692,Indonesia Women,Malaysia Women,Indonesia Women,175,60,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+693,New Zealand Women,Bangladesh Women,New Zealand Women,318,141,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+694,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,81,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+695,South Africa Women,Ireland Women,South Africa Women,255,121,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+696,Scotland Women,Netherlands Women,Scotland Women,268,125,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+697,United States of America,Canada,United States of America,466,148,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+698,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,125,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+699,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,73,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+700,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,72,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+701,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,45,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+702,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,117,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+703,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,87,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+704,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,90,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+705,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,74,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+706,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,103,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+707,England,New Zealand,Joe Root,617,208,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+708,Oman Women,Philippines Women,Oman Women,238,92,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+709,Japan Women,Bahrain Women,Japan Women,236,86,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+710,United Arab Emirates Women,China Women,United Arab Emirates Women,76,37,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+711,Thailand Women,Myanmar Women,Thailand Women,65,18,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+712,Mongolia Women,Bahrain Women,Mongolia Women,195,42,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+713,Oman Women,Saudi Arabia Women,Oman Women,77,24,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+714,Kuwait Women,Singapore Women,Kuwait Women,191,64,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+715,Hong Kong,Nepal Women,Hong Kong,149,64,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+716,Indonesia Women,Malaysia Women,Indonesia Women,175,82,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+717,New Zealand Women,Bangladesh Women,New Zealand Women,318,111,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+718,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,112,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+719,South Africa Women,Ireland Women,South Africa Women,255,108,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+720,Scotland Women,Netherlands Women,Scotland Women,268,81,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+721,United States of America,Canada,United States of America,466,129,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+722,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,138,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+723,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,161,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+724,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,82,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+725,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,55,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+726,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,205,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+727,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,187,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+728,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,125,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+729,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,134,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+730,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,144,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+731,England,New Zealand,Harry Brook,617,301,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+732,Oman Women,Philippines Women,Oman Women,238,61,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+733,Japan Women,Bahrain Women,Japan Women,236,106,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+734,United Arab Emirates Women,China Women,United Arab Emirates Women,76,18,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+735,Thailand Women,Myanmar Women,Thailand Women,65,19,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+736,Mongolia Women,Bahrain Women,Mongolia Women,195,72,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+737,Oman Women,Saudi Arabia Women,Oman Women,77,35,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+738,Kuwait Women,Singapore Women,Kuwait Women,191,94,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+739,Hong Kong,Nepal Women,Hong Kong,149,56,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+740,Indonesia Women,Malaysia Women,Indonesia Women,175,76,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+741,New Zealand Women,Bangladesh Women,New Zealand Women,318,117,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+742,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,87,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+743,South Africa Women,Ireland Women,South Africa Women,255,120,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+744,Scotland Women,Netherlands Women,Scotland Women,268,127,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+745,United States of America,Canada,United States of America,466,164,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+746,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,75,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+747,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,124,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+748,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,90,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+749,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,53,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+750,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,139,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+751,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,110,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+752,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,76,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+753,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,139,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+754,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,158,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+755,England,New Zealand,Jofra Archer,617,241,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+756,Oman Women,Philippines Women,Oman Women,238,60,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+757,Japan Women,Bahrain Women,Japan Women,236,86,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+758,United Arab Emirates Women,China Women,United Arab Emirates Women,76,32,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+759,Thailand Women,Myanmar Women,Thailand Women,65,32,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+760,Mongolia Women,Bahrain Women,Mongolia Women,195,71,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+761,Oman Women,Saudi Arabia Women,Oman Women,77,38,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+762,Kuwait Women,Singapore Women,Kuwait Women,191,60,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+763,Hong Kong,Nepal Women,Hong Kong,149,65,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+764,Indonesia Women,Malaysia Women,Indonesia Women,175,65,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+765,New Zealand Women,Bangladesh Women,New Zealand Women,318,64,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+766,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,135,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+767,South Africa Women,Ireland Women,South Africa Women,255,103,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+768,Scotland Women,Netherlands Women,Scotland Women,268,107,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+769,United States of America,Canada,United States of America,466,128,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+770,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,107,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+771,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,116,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+772,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,120,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+773,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,61,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+774,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,190,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+775,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,181,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+776,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,146,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+777,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,119,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+778,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,172,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+779,England,New Zealand,Joe Root,617,134,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+780,Oman Women,Philippines Women,Oman Women,238,101,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+781,Japan Women,Bahrain Women,Japan Women,236,84,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+782,United Arab Emirates Women,China Women,United Arab Emirates Women,76,25,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+783,Thailand Women,Myanmar Women,Thailand Women,65,21,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+784,Mongolia Women,Bahrain Women,Mongolia Women,195,73,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+785,Oman Women,Saudi Arabia Women,Oman Women,77,36,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+786,Kuwait Women,Singapore Women,Kuwait Women,191,95,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+787,Hong Kong,Nepal Women,Hong Kong,149,30,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+788,Indonesia Women,Malaysia Women,Indonesia Women,175,46,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+789,New Zealand Women,Bangladesh Women,New Zealand Women,318,149,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+790,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,122,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+791,South Africa Women,Ireland Women,South Africa Women,255,106,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+792,Scotland Women,Netherlands Women,Scotland Women,268,65,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+793,United States of America,Canada,United States of America,466,134,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+794,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,85,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+795,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,113,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+796,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,147,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+797,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,44,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+798,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,200,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+799,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,96,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+800,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,127,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+801,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,137,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+802,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,88,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+803,England,New Zealand,Joe Root,617,207,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+804,Oman Women,Philippines Women,Oman Women,238,79,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+805,Japan Women,Bahrain Women,Japan Women,236,109,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+806,United Arab Emirates Women,China Women,United Arab Emirates Women,76,16,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+807,Thailand Women,Myanmar Women,Thailand Women,65,26,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+808,Mongolia Women,Bahrain Women,Mongolia Women,195,80,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+809,Oman Women,Saudi Arabia Women,Oman Women,77,31,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+810,Kuwait Women,Singapore Women,Kuwait Women,191,75,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+811,Hong Kong,Nepal Women,Hong Kong,149,42,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+812,Indonesia Women,Malaysia Women,Indonesia Women,175,80,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+813,New Zealand Women,Bangladesh Women,New Zealand Women,318,158,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+814,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,90,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+815,South Africa Women,Ireland Women,South Africa Women,255,74,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+816,Scotland Women,Netherlands Women,Scotland Women,268,76,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+817,United States of America,Canada,United States of America,466,192,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+818,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,111,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+819,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,161,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+820,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,86,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+821,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,64,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+822,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,203,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+823,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,118,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+824,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,120,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+825,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,103,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+826,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,84,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+827,England,New Zealand,Jofra Archer,617,272,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+828,Oman Women,Philippines Women,Oman Women,238,84,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+829,Japan Women,Bahrain Women,Japan Women,236,116,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+830,United Arab Emirates Women,China Women,United Arab Emirates Women,76,29,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+831,Thailand Women,Myanmar Women,Thailand Women,65,28,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+832,Mongolia Women,Bahrain Women,Mongolia Women,195,41,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+833,Oman Women,Saudi Arabia Women,Oman Women,77,20,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+834,Kuwait Women,Singapore Women,Kuwait Women,191,65,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+835,Hong Kong,Nepal Women,Hong Kong,149,73,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+836,Indonesia Women,Malaysia Women,Indonesia Women,175,66,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+837,New Zealand Women,Bangladesh Women,New Zealand Women,318,142,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+838,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,70,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+839,South Africa Women,Ireland Women,South Africa Women,255,54,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+840,Scotland Women,Netherlands Women,Scotland Women,268,128,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+841,United States of America,Canada,United States of America,466,199,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+842,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,116,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+843,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,102,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+844,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,127,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+845,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,50,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+846,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,141,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+847,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,189,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+848,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,67,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+849,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,116,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+850,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,119,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+851,England,New Zealand,Jos Buttler,617,138,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+852,Oman Women,Philippines Women,Oman Women,238,92,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+853,Japan Women,Bahrain Women,Japan Women,236,86,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+854,United Arab Emirates Women,China Women,United Arab Emirates Women,76,18,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+855,Thailand Women,Myanmar Women,Thailand Women,65,23,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+856,Mongolia Women,Bahrain Women,Mongolia Women,195,76,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+857,Oman Women,Saudi Arabia Women,Oman Women,77,31,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+858,Kuwait Women,Singapore Women,Kuwait Women,191,75,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+859,Hong Kong,Nepal Women,Hong Kong,149,35,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+860,Indonesia Women,Malaysia Women,Indonesia Women,175,76,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+861,New Zealand Women,Bangladesh Women,New Zealand Women,318,148,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+862,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,150,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+863,South Africa Women,Ireland Women,South Africa Women,255,53,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+864,Scotland Women,Netherlands Women,Scotland Women,268,117,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+865,United States of America,Canada,United States of America,466,123,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+866,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,119,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+867,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,144,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+868,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,108,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+869,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,39,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+870,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,160,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+871,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,165,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+872,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,113,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+873,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,111,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+874,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,136,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+875,England,New Zealand,Ben Stokes,617,297,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+876,Oman Women,Philippines Women,Oman Women,238,66,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+877,Japan Women,Bahrain Women,Japan Women,236,115,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+878,United Arab Emirates Women,China Women,United Arab Emirates Women,76,21,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+879,Thailand Women,Myanmar Women,Thailand Women,65,24,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+880,Mongolia Women,Bahrain Women,Mongolia Women,195,47,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+881,Oman Women,Saudi Arabia Women,Oman Women,77,18,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+882,Kuwait Women,Singapore Women,Kuwait Women,191,56,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+883,Hong Kong,Nepal Women,Hong Kong,149,44,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+884,Indonesia Women,Malaysia Women,Indonesia Women,175,85,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+885,New Zealand Women,Bangladesh Women,New Zealand Women,318,110,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+886,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,118,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+887,South Africa Women,Ireland Women,South Africa Women,255,124,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+888,Scotland Women,Netherlands Women,Scotland Women,268,75,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+889,United States of America,Canada,United States of America,466,160,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+890,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,91,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+891,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,78,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+892,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,109,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+893,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,39,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+894,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,196,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+895,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,98,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+896,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,95,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+897,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,116,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+898,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,169,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+899,England,New Zealand,Harry Brook,617,203,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+900,Oman Women,Philippines Women,Oman Women,238,48,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+901,Japan Women,Bahrain Women,Japan Women,236,66,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+902,United Arab Emirates Women,China Women,United Arab Emirates Women,76,33,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+903,Thailand Women,Myanmar Women,Thailand Women,65,32,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+904,Mongolia Women,Bahrain Women,Mongolia Women,195,82,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+905,Oman Women,Saudi Arabia Women,Oman Women,77,36,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+906,Kuwait Women,Singapore Women,Kuwait Women,191,54,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+907,Hong Kong,Nepal Women,Hong Kong,149,69,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+908,Indonesia Women,Malaysia Women,Indonesia Women,175,42,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
