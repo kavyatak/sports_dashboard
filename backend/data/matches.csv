@@ -1,0 +1,669 @@
+id,winner,loser,player,score,player_score,venue,date,sport,gender,toss,league
+1,India,Pakistan,Virat Kohli,160,82,"MCG, Melbourne",2022-10-23,Cricket,Men,Bowl,International Cricket
+2,England,Pakistan,Ben Stokes,138,52,"MCG, Melbourne",2022-11-13,Cricket,Men,Bowl,International Cricket
+3,Australia Women,India Women,Beth Mooney,172,61,"Edgbaston, Birmingham",2022-08-07,Cricket,Women,Bat,International Cricket
+4,Australia,India,Travis Head,241,137,"Narendra Modi Stadium, Ahmedabad",2023-11-19,Cricket,Men,Bowl,International Cricket
+5,India,New Zealand,Virat Kohli,397,117,"Wankhede Stadium, Mumbai",2023-11-15,Cricket,Men,Bat,International Cricket
+6,Pakistan,Sri Lanka,Mohammad Rizwan,345,131,"Rajiv Gandhi International Stadium, Hyderabad",2023-10-10,Cricket,Men,Bowl,International Cricket
+7,Australia Women,South Africa Women,Beth Mooney,156,74,"Newlands Cricket Ground, Cape Town",2023-02-26,Cricket,Women,Bat,International Cricket
+8,Mumbai Indians Women,Delhi Capitals Women,Nat Sciver-Brunt,134,60,"Brabourne Stadium, Mumbai",2023-03-26,Cricket,Women,Bowl,Womens Premier League
+9,UP Warriorz Women,Gujarat Giants Women,Grace Harris,175,59,"DY Patil Stadium, Navi Mumbai",2023-03-05,Cricket,Women,Bowl,Womens Premier League
+10,India,South Africa,Virat Kohli,176,76,"Kensington Oval, Barbados",2024-06-29,Cricket,Men,Bat,International Cricket
+11,India,Pakistan,Jasprit Bumrah,119,14,"Nassau County Stadium, New York",2024-06-09,Cricket,Men,Bowl,International Cricket
+12,New Zealand Women,South Africa Women,Amelia Kerr,158,43,"Dubai International Cricket Stadium, Dubai",2024-10-20,Cricket,Women,Bowl,International Cricket
+13,Royal Challengers Bangalore Women,Delhi Capitals Women,Ellyse Perry,115,35,"Arun Jaitley Stadium, New Delhi",2024-03-17,Cricket,Women,Bowl,Womens Premier League
+14,Royal Challengers Bangalore Women,Gujarat Giants Women,Smriti Mandhana,199,80,"M. Chinnaswamy Stadium, Bengaluru",2024-03-03,Cricket,Women,Bowl,Womens Premier League
+15,India,Australia,Rishabh Pant,280,97,"SCG, Sydney",2025-01-07,Cricket,Men,Bat,International Cricket
+16,India,Pakistan,Rohit Sharma,185,86,"National Stadium, Karachi",2025-03-09,Cricket,Men,Bowl,International Cricket
+17,Mumbai Indians Women,Royal Challengers Bangalore Women,Harmanpreet Kaur,168,72,"DY Patil Stadium, Navi Mumbai",2025-03-16,Cricket,Women,Bat,Womens Premier League
+18,India,England,Suryakumar Yadav,204,88,"Wankhede Stadium, Mumbai",2026-02-15,Cricket,Men,Bat,International Cricket
+19,Royal Challengers Bangalore Women,Delhi Capitals Women,Smriti Mandhana,172,64,"M. Chinnaswamy Stadium, Bengaluru",2026-03-15,Cricket,Women,Bowl,Womens Premier League
+20,Kolkata Knight Riders,Chennai Super Kings,UT Yadav,132,66,"Wankhede Stadium, Mumbai",2022-03-26,Cricket,Men,field,Indian Premier League
+21,Delhi Capitals,Mumbai Indians,Kuldeep Yadav,178,47,"Brabourne Stadium, Mumbai",2022-03-27,Cricket,Men,field,Indian Premier League
+22,Punjab Kings,Royal Challengers Bangalore,OF Smith,206,75,"Dr DY Patil Sports Academy, Mumbai",2022-03-27,Cricket,Men,field,Indian Premier League
+23,Gujarat Titans,Lucknow Super Giants,Mohammed Shami,159,94,"Wankhede Stadium, Mumbai",2022-03-28,Cricket,Men,field,Indian Premier League
+24,Rajasthan Royals,Sunrisers Hyderabad,SV Samson,211,119,"Maharashtra Cricket Association Stadium, Pune",2022-03-29,Cricket,Men,field,Indian Premier League
+25,Royal Challengers Bangalore,Kolkata Knight Riders,PWH de Silva,129,35,"Dr DY Patil Sports Academy, Mumbai",2022-03-30,Cricket,Men,field,Indian Premier League
+26,Lucknow Super Giants,Chennai Super Kings,E Lewis,211,76,"Brabourne Stadium, Mumbai",2022-03-31,Cricket,Men,field,Indian Premier League
+27,Kolkata Knight Riders,Punjab Kings,UT Yadav,138,75,"Wankhede Stadium, Mumbai",2022-04-01,Cricket,Men,field,Indian Premier League
+28,Rajasthan Royals,Mumbai Indians,JC Buttler,194,71,"Dr DY Patil Sports Academy, Mumbai",2022-04-02,Cricket,Men,field,Indian Premier League
+29,Gujarat Titans,Delhi Capitals,LH Ferguson,172,95,"Maharashtra Cricket Association Stadium, Pune",2022-04-02,Cricket,Men,field,Indian Premier League
+30,Punjab Kings,Chennai Super Kings,LS Livingstone,181,78,"Brabourne Stadium, Mumbai",2022-04-03,Cricket,Men,field,Indian Premier League
+31,Lucknow Super Giants,Sunrisers Hyderabad,Avesh Khan,170,66,"Dr DY Patil Sports Academy, Mumbai",2022-04-04,Cricket,Men,field,Indian Premier League
+32,Royal Challengers Bangalore,Rajasthan Royals,KD Karthik,170,67,"Wankhede Stadium, Mumbai",2022-04-05,Cricket,Men,field,Indian Premier League
+33,Kolkata Knight Riders,Mumbai Indians,PJ Cummins,162,50,"Maharashtra Cricket Association Stadium, Pune",2022-04-06,Cricket,Men,field,Indian Premier League
+34,Lucknow Super Giants,Delhi Capitals,Q de Kock,150,42,"Dr DY Patil Sports Academy, Mumbai",2022-04-07,Cricket,Men,field,Indian Premier League
+35,Gujarat Titans,Punjab Kings,Shubman Gill,190,66,"Brabourne Stadium, Mumbai",2022-04-08,Cricket,Men,field,Indian Premier League
+36,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,155,48,"Dr DY Patil Sports Academy, Mumbai",2022-04-09,Cricket,Men,field,Indian Premier League
+37,Royal Challengers Bangalore,Mumbai Indians,Anuj Rawat,152,43,"Maharashtra Cricket Association Stadium, Pune",2022-04-09,Cricket,Men,field,Indian Premier League
+38,Delhi Capitals,Kolkata Knight Riders,Kuldeep Yadav,216,68,"Brabourne Stadium, Mumbai",2022-04-10,Cricket,Men,field,Indian Premier League
+39,Rajasthan Royals,Lucknow Super Giants,YS Chahal,166,63,"Wankhede Stadium, Mumbai",2022-04-10,Cricket,Men,field,Indian Premier League
+40,Sunrisers Hyderabad,Gujarat Titans,KS Williamson,163,51,"Dr DY Patil Sports Academy, Mumbai",2022-04-11,Cricket,Men,field,Indian Premier League
+41,Chennai Super Kings,Royal Challengers Bangalore,S Dube,217,108,"Dr DY Patil Sports Academy, Mumbai",2022-04-12,Cricket,Men,field,Indian Premier League
+42,Punjab Kings,Mumbai Indians,MA Agarwal,199,91,"Maharashtra Cricket Association Stadium, Pune",2022-04-13,Cricket,Men,field,Indian Premier League
+43,Gujarat Titans,Rajasthan Royals,HH Pandya,193,79,"Dr DY Patil Sports Academy, Mumbai",2022-04-14,Cricket,Men,field,Indian Premier League
+44,Sunrisers Hyderabad,Kolkata Knight Riders,RA Tripathi,176,91,"Brabourne Stadium, Mumbai",2022-04-15,Cricket,Men,field,Indian Premier League
+45,Lucknow Super Giants,Mumbai Indians,KL Rahul,200,74,"Brabourne Stadium, Mumbai",2022-04-16,Cricket,Men,field,Indian Premier League
+46,Royal Challengers Bangalore,Delhi Capitals,KD Karthik,190,53,"Wankhede Stadium, Mumbai",2022-04-16,Cricket,Men,field,Indian Premier League
+47,Sunrisers Hyderabad,Punjab Kings,Umran Malik,152,62,"Dr DY Patil Sports Academy, Mumbai",2022-04-17,Cricket,Men,field,Indian Premier League
+48,Gujarat Titans,Chennai Super Kings,DA Miller,170,78,"Maharashtra Cricket Association Stadium, Pune",2022-04-17,Cricket,Men,field,Indian Premier League
+49,Rajasthan Royals,Kolkata Knight Riders,YS Chahal,218,74,"Brabourne Stadium, Mumbai",2022-04-18,Cricket,Men,field,Indian Premier League
+50,Royal Challengers Bangalore,Lucknow Super Giants,F du Plessis,182,90,"Dr DY Patil Sports Academy, Mumbai",2022-04-19,Cricket,Men,field,Indian Premier League
+51,Delhi Capitals,Punjab Kings,Kuldeep Yadav,116,33,"Brabourne Stadium, Mumbai",2022-04-20,Cricket,Men,field,Indian Premier League
+52,Chennai Super Kings,Mumbai Indians,Mukesh Choudhary,156,73,"Dr DY Patil Sports Academy, Mumbai",2022-04-21,Cricket,Men,field,Indian Premier League
+53,Rajasthan Royals,Delhi Capitals,JC Buttler,223,127,"Wankhede Stadium, Mumbai",2022-04-22,Cricket,Men,field,Indian Premier League
+54,Gujarat Titans,Kolkata Knight Riders,Rashid Khan,157,63,"Dr DY Patil Sports Academy, Mumbai",2022-04-23,Cricket,Men,bat,Indian Premier League
+55,Sunrisers Hyderabad,Royal Challengers Bangalore,M Jansen,69,22,"Brabourne Stadium, Mumbai",2022-04-23,Cricket,Men,field,Indian Premier League
+56,Lucknow Super Giants,Mumbai Indians,KL Rahul,169,72,"Wankhede Stadium, Mumbai",2022-04-24,Cricket,Men,field,Indian Premier League
+57,Punjab Kings,Chennai Super Kings,S Dhawan,188,99,"Wankhede Stadium, Mumbai",2022-04-25,Cricket,Men,field,Indian Premier League
+58,Rajasthan Royals,Royal Challengers Bangalore,R Parag,145,49,"Maharashtra Cricket Association Stadium, Pune",2022-04-26,Cricket,Men,field,Indian Premier League
+59,Gujarat Titans,Sunrisers Hyderabad,Umran Malik,196,62,"Wankhede Stadium, Mumbai",2022-04-27,Cricket,Men,field,Indian Premier League
+60,Delhi Capitals,Kolkata Knight Riders,Kuldeep Yadav,147,83,"Wankhede Stadium, Mumbai",2022-04-28,Cricket,Men,field,Indian Premier League
+61,Lucknow Super Giants,Punjab Kings,KH Pandya,154,54,"Maharashtra Cricket Association Stadium, Pune",2022-04-29,Cricket,Men,field,Indian Premier League
+62,Gujarat Titans,Royal Challengers Bangalore,R Tewatia,171,61,"Brabourne Stadium, Mumbai",2022-04-30,Cricket,Men,bat,Indian Premier League
+63,Mumbai Indians,Rajasthan Royals,SA Yadav,159,63,"Dr DY Patil Sports Academy, Mumbai",2022-04-30,Cricket,Men,field,Indian Premier League
+64,Lucknow Super Giants,Delhi Capitals,Mohsin Khan,196,77,"Wankhede Stadium, Mumbai",2022-05-01,Cricket,Men,bat,Indian Premier League
+65,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,203,82,"Maharashtra Cricket Association Stadium, Pune",2022-05-01,Cricket,Men,field,Indian Premier League
+66,Kolkata Knight Riders,Rajasthan Royals,RK Singh,153,54,"Wankhede Stadium, Mumbai",2022-05-02,Cricket,Men,field,Indian Premier League
+67,Punjab Kings,Gujarat Titans,K Rabada,144,49,"Dr DY Patil Sports Academy, Mumbai",2022-05-03,Cricket,Men,bat,Indian Premier League
+68,Royal Challengers Bangalore,Chennai Super Kings,HV Patel,174,103,"Maharashtra Cricket Association Stadium, Pune",2022-05-04,Cricket,Men,field,Indian Premier League
+69,Delhi Capitals,Sunrisers Hyderabad,DA Warner,208,121,"Brabourne Stadium, Mumbai",2022-05-05,Cricket,Men,field,Indian Premier League
+70,Mumbai Indians,Gujarat Titans,TH David,178,73,"Brabourne Stadium, Mumbai",2022-05-06,Cricket,Men,field,Indian Premier League
+71,Rajasthan Royals,Punjab Kings,YBK Jaiswal,190,95,"Wankhede Stadium, Mumbai",2022-05-07,Cricket,Men,bat,Indian Premier League
+72,Lucknow Super Giants,Kolkata Knight Riders,Avesh Khan,177,82,"Maharashtra Cricket Association Stadium, Pune",2022-05-07,Cricket,Men,field,Indian Premier League
+73,Royal Challengers Bangalore,Sunrisers Hyderabad,PWH de Silva,193,54,"Wankhede Stadium, Mumbai",2022-05-08,Cricket,Men,bat,Indian Premier League
+74,Chennai Super Kings,Delhi Capitals,DP Conway,209,59,"Dr DY Patil Sports Academy, Mumbai",2022-05-08,Cricket,Men,field,Indian Premier League
+75,Kolkata Knight Riders,Mumbai Indians,JJ Bumrah,166,67,"Dr DY Patil Sports Academy, Mumbai",2022-05-09,Cricket,Men,field,Indian Premier League
+76,Gujarat Titans,Lucknow Super Giants,Shubman Gill,145,83,"Maharashtra Cricket Association Stadium, Pune",2022-05-10,Cricket,Men,bat,Indian Premier League
+77,Delhi Capitals,Rajasthan Royals,MR Marsh,161,89,"Dr DY Patil Sports Academy, Mumbai",2022-05-11,Cricket,Men,field,Indian Premier League
+78,Mumbai Indians,Chennai Super Kings,DR Sams,98,37,"Wankhede Stadium, Mumbai",2022-05-12,Cricket,Men,field,Indian Premier League
+79,Punjab Kings,Royal Challengers Bangalore,JM Bairstow,210,88,"Brabourne Stadium, Mumbai",2022-05-13,Cricket,Men,field,Indian Premier League
+80,Kolkata Knight Riders,Sunrisers Hyderabad,AD Russell,178,80,"Maharashtra Cricket Association Stadium, Pune",2022-05-14,Cricket,Men,bat,Indian Premier League
+81,Gujarat Titans,Chennai Super Kings,WP Saha,134,46,"Wankhede Stadium, Mumbai",2022-05-15,Cricket,Men,bat,Indian Premier League
+82,Rajasthan Royals,Lucknow Super Giants,TA Boult,179,102,"Brabourne Stadium, Mumbai",2022-05-15,Cricket,Men,bat,Indian Premier League
+83,Delhi Capitals,Punjab Kings,SN Thakur,160,88,"Dr DY Patil Sports Academy, Mumbai",2022-05-16,Cricket,Men,field,Indian Premier League
+84,Sunrisers Hyderabad,Mumbai Indians,RA Tripathi,194,97,"Wankhede Stadium, Mumbai",2022-05-17,Cricket,Men,field,Indian Premier League
+85,Lucknow Super Giants,Kolkata Knight Riders,Q de Kock,211,76,"Dr DY Patil Sports Academy, Mumbai",2022-05-18,Cricket,Men,bat,Indian Premier League
+86,Royal Challengers Bangalore,Gujarat Titans,V Kohli,169,56,"Wankhede Stadium, Mumbai",2022-05-19,Cricket,Men,bat,Indian Premier League
+87,Rajasthan Royals,Chennai Super Kings,R Ashwin,151,65,"Brabourne Stadium, Mumbai",2022-05-20,Cricket,Men,bat,Indian Premier League
+88,Mumbai Indians,Delhi Capitals,JJ Bumrah,160,49,"Wankhede Stadium, Mumbai",2022-05-21,Cricket,Men,field,Indian Premier League
+89,Punjab Kings,Sunrisers Hyderabad,Harpreet Brar,158,71,"Wankhede Stadium, Mumbai",2022-05-22,Cricket,Men,bat,Indian Premier League
+90,Gujarat Titans,Rajasthan Royals,DA Miller,189,74,"Eden Gardens, Kolkata",2022-05-24,Cricket,Men,field,Indian Premier League
+91,Royal Challengers Bangalore,Lucknow Super Giants,RM Patidar,208,99,"Eden Gardens, Kolkata",2022-05-25,Cricket,Men,field,Indian Premier League
+92,Rajasthan Royals,Royal Challengers Bangalore,JC Buttler,158,92,"Narendra Modi Stadium, Ahmedabad",2022-05-27,Cricket,Men,field,Indian Premier League
+93,Gujarat Titans,Rajasthan Royals,HH Pandya,131,35,"Narendra Modi Stadium, Ahmedabad",2022-05-29,Cricket,Men,bat,Indian Premier League
+94,Gujarat Titans,Chennai Super Kings,Rashid Khan,179,82,"Narendra Modi Stadium, Ahmedabad",2023-03-31,Cricket,Men,field,Indian Premier League
+95,Punjab Kings,Kolkata Knight Riders,Arshdeep Singh,154,73,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-01,Cricket,Men,field,Indian Premier League
+96,Lucknow Super Giants,Delhi Capitals,MA Wood,194,95,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-01,Cricket,Men,field,Indian Premier League
+97,Rajasthan Royals,Sunrisers Hyderabad,JC Buttler,204,87,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-02,Cricket,Men,field,Indian Premier League
+98,Royal Challengers Bangalore,Mumbai Indians,F du Plessis,172,74,"M Chinnaswamy Stadium, Bengaluru",2023-04-02,Cricket,Men,field,Indian Premier League
+99,Chennai Super Kings,Lucknow Super Giants,MM Ali,218,86,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-03,Cricket,Men,field,Indian Premier League
+100,Gujarat Titans,Delhi Capitals,B Sai Sudharsan,163,59,"Arun Jaitley Stadium, Delhi",2023-04-04,Cricket,Men,field,Indian Premier League
+101,Punjab Kings,Rajasthan Royals,NT Ellis,198,113,"Barsapara Cricket Stadium, Guwahati",2023-04-05,Cricket,Men,field,Indian Premier League
+102,Kolkata Knight Riders,Royal Challengers Bangalore,SN Thakur,205,57,"Eden Gardens, Kolkata",2023-04-06,Cricket,Men,field,Indian Premier League
+103,Lucknow Super Giants,Sunrisers Hyderabad,KH Pandya,122,61,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-07,Cricket,Men,bat,Indian Premier League
+104,Rajasthan Royals,Delhi Capitals,YBK Jaiswal,200,107,"Barsapara Cricket Stadium, Guwahati",2023-04-08,Cricket,Men,field,Indian Premier League
+105,Chennai Super Kings,Mumbai Indians,RA Jadeja,158,79,"Wankhede Stadium, Mumbai",2023-04-08,Cricket,Men,field,Indian Premier League
+106,Kolkata Knight Riders,Gujarat Titans,RK Singh,205,53,"Narendra Modi Stadium, Ahmedabad",2023-04-09,Cricket,Men,bat,Indian Premier League
+107,Sunrisers Hyderabad,Punjab Kings,S Dhawan,144,54,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-09,Cricket,Men,field,Indian Premier League
+108,Lucknow Super Giants,Royal Challengers Bangalore,N Pooran,213,81,"M Chinnaswamy Stadium, Bengaluru",2023-04-10,Cricket,Men,field,Indian Premier League
+109,Mumbai Indians,Delhi Capitals,RG Sharma,173,66,"Arun Jaitley Stadium, Delhi",2023-04-11,Cricket,Men,field,Indian Premier League
+110,Rajasthan Royals,Chennai Super Kings,R Ashwin,176,71,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-12,Cricket,Men,field,Indian Premier League
+111,Gujarat Titans,Punjab Kings,MM Sharma,154,80,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-13,Cricket,Men,field,Indian Premier League
+112,Sunrisers Hyderabad,Kolkata Knight Riders,HC Brook,229,67,"Eden Gardens, Kolkata",2023-04-14,Cricket,Men,field,Indian Premier League
+113,Royal Challengers Bangalore,Delhi Capitals,V Kohli,175,87,"M Chinnaswamy Stadium, Bengaluru",2023-04-15,Cricket,Men,field,Indian Premier League
+114,Punjab Kings,Lucknow Super Giants,Sikandar Raza,160,63,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-15,Cricket,Men,field,Indian Premier League
+115,Mumbai Indians,Kolkata Knight Riders,VR Iyer,186,96,"Wankhede Stadium, Mumbai",2023-04-16,Cricket,Men,field,Indian Premier League
+116,Rajasthan Royals,Gujarat Titans,SO Hetmyer,178,99,"Narendra Modi Stadium, Ahmedabad",2023-04-16,Cricket,Men,field,Indian Premier League
+117,Chennai Super Kings,Royal Challengers Bangalore,DP Conway,227,116,"M Chinnaswamy Stadium, Bengaluru",2023-04-17,Cricket,Men,field,Indian Premier League
+118,Mumbai Indians,Sunrisers Hyderabad,C Green,193,98,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-18,Cricket,Men,field,Indian Premier League
+119,Lucknow Super Giants,Rajasthan Royals,MP Stoinis,155,51,"Sawai Mansingh Stadium, Jaipur",2023-04-19,Cricket,Men,field,Indian Premier League
+120,Royal Challengers Bangalore,Punjab Kings,Mohammed Siraj,175,58,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-20,Cricket,Men,field,Indian Premier League
+121,Delhi Capitals,Kolkata Knight Riders,I Sharma,128,59,"Arun Jaitley Stadium, Delhi",2023-04-20,Cricket,Men,field,Indian Premier League
+122,Chennai Super Kings,Sunrisers Hyderabad,RA Jadeja,135,74,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-21,Cricket,Men,field,Indian Premier League
+123,Gujarat Titans,Lucknow Super Giants,MM Sharma,136,52,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-22,Cricket,Men,bat,Indian Premier League
+124,Punjab Kings,Mumbai Indians,SM Curran,215,64,"Wankhede Stadium, Mumbai",2023-04-22,Cricket,Men,field,Indian Premier League
+125,Royal Challengers Bangalore,Rajasthan Royals,GJ Maxwell,190,51,"M Chinnaswamy Stadium, Bengaluru",2023-04-23,Cricket,Men,field,Indian Premier League
+126,Chennai Super Kings,Kolkata Knight Riders,AM Rahane,236,75,"Eden Gardens, Kolkata",2023-04-23,Cricket,Men,field,Indian Premier League
+127,Delhi Capitals,Sunrisers Hyderabad,AR Patel,145,84,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-24,Cricket,Men,bat,Indian Premier League
+128,Gujarat Titans,Mumbai Indians,A Manohar,208,125,"Narendra Modi Stadium, Ahmedabad",2023-04-25,Cricket,Men,field,Indian Premier League
+129,Kolkata Knight Riders,Royal Challengers Bangalore,CV Varun,201,73,"M Chinnaswamy Stadium, Bengaluru",2023-04-26,Cricket,Men,field,Indian Premier League
+130,Rajasthan Royals,Chennai Super Kings,YBK Jaiswal,203,66,"Sawai Mansingh Stadium, Jaipur",2023-04-27,Cricket,Men,bat,Indian Premier League
+131,Lucknow Super Giants,Punjab Kings,MP Stoinis,258,114,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-28,Cricket,Men,field,Indian Premier League
+132,Gujarat Titans,Kolkata Knight Riders,J Little,180,57,"Eden Gardens, Kolkata",2023-04-29,Cricket,Men,field,Indian Premier League
+133,Sunrisers Hyderabad,Delhi Capitals,MR Marsh,198,111,"Arun Jaitley Stadium, Delhi",2023-04-29,Cricket,Men,bat,Indian Premier League
+134,Punjab Kings,Chennai Super Kings,DP Conway,201,73,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-30,Cricket,Men,bat,Indian Premier League
+135,Mumbai Indians,Rajasthan Royals,YBK Jaiswal,213,91,"Wankhede Stadium, Mumbai",2023-04-30,Cricket,Men,bat,Indian Premier League
+136,Royal Challengers Bangalore,Lucknow Super Giants,F du Plessis,127,60,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-05-01,Cricket,Men,bat,Indian Premier League
+137,Delhi Capitals,Gujarat Titans,Mohammed Shami,131,73,"Narendra Modi Stadium, Ahmedabad",2023-05-02,Cricket,Men,bat,Indian Premier League
+138,Mumbai Indians,Punjab Kings,Ishan Kishan,215,118,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-05-03,Cricket,Men,field,Indian Premier League
+139,Kolkata Knight Riders,Sunrisers Hyderabad,CV Varun,172,64,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-05-04,Cricket,Men,bat,Indian Premier League
+140,Gujarat Titans,Rajasthan Royals,Rashid Khan,119,50,"Sawai Mansingh Stadium, Jaipur",2023-05-05,Cricket,Men,bat,Indian Premier League
+141,Chennai Super Kings,Mumbai Indians,M Pathirana,140,53,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-06,Cricket,Men,field,Indian Premier League
+142,Delhi Capitals,Royal Challengers Bangalore,PD Salt,182,89,"Arun Jaitley Stadium, Delhi",2023-05-06,Cricket,Men,bat,Indian Premier League
+143,Gujarat Titans,Lucknow Super Giants,Shubman Gill,228,118,"Narendra Modi Stadium, Ahmedabad",2023-05-07,Cricket,Men,field,Indian Premier League
+144,Sunrisers Hyderabad,Rajasthan Royals,GD Phillips,215,81,"Sawai Mansingh Stadium, Jaipur",2023-05-07,Cricket,Men,bat,Indian Premier League
+145,Kolkata Knight Riders,Punjab Kings,AD Russell,180,68,"Eden Gardens, Kolkata",2023-05-08,Cricket,Men,bat,Indian Premier League
+146,Mumbai Indians,Royal Challengers Bangalore,SA Yadav,200,84,"Wankhede Stadium, Mumbai",2023-05-09,Cricket,Men,field,Indian Premier League
+147,Chennai Super Kings,Delhi Capitals,RA Jadeja,168,93,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-10,Cricket,Men,bat,Indian Premier League
+148,Rajasthan Royals,Kolkata Knight Riders,YBK Jaiswal,150,45,"Eden Gardens, Kolkata",2023-05-11,Cricket,Men,field,Indian Premier League
+149,Mumbai Indians,Gujarat Titans,SA Yadav,219,68,"Wankhede Stadium, Mumbai",2023-05-12,Cricket,Men,field,Indian Premier League
+150,Lucknow Super Giants,Sunrisers Hyderabad,PN Mankad,183,100,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-05-13,Cricket,Men,bat,Indian Premier League
+151,Punjab Kings,Delhi Capitals,P Simran Singh,168,87,"Arun Jaitley Stadium, Delhi",2023-05-13,Cricket,Men,field,Indian Premier League
+152,Royal Challengers Bangalore,Rajasthan Royals,WD Parnell,172,50,"Sawai Mansingh Stadium, Jaipur",2023-05-14,Cricket,Men,bat,Indian Premier League
+153,Kolkata Knight Riders,Chennai Super Kings,RK Singh,145,58,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-14,Cricket,Men,bat,Indian Premier League
+154,Gujarat Titans,Sunrisers Hyderabad,Shubman Gill,189,98,"Narendra Modi Stadium, Ahmedabad",2023-05-15,Cricket,Men,field,Indian Premier League
+155,Lucknow Super Giants,Mumbai Indians,MP Stoinis,178,106,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-05-16,Cricket,Men,field,Indian Premier League
+156,Delhi Capitals,Punjab Kings,RR Rossouw,214,81,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2023-05-17,Cricket,Men,field,Indian Premier League
+157,Royal Challengers Bangalore,Sunrisers Hyderabad,V Kohli,187,71,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-05-18,Cricket,Men,field,Indian Premier League
+158,Rajasthan Royals,Punjab Kings,D Padikkal,188,56,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2023-05-19,Cricket,Men,field,Indian Premier League
+159,Chennai Super Kings,Delhi Capitals,RD Gaikwad,224,108,"Arun Jaitley Stadium, Delhi",2023-05-20,Cricket,Men,bat,Indian Premier League
+160,Lucknow Super Giants,Kolkata Knight Riders,N Pooran,177,45,"Eden Gardens, Kolkata",2023-05-20,Cricket,Men,field,Indian Premier League
+161,Mumbai Indians,Sunrisers Hyderabad,C Green,201,120,"Wankhede Stadium, Mumbai",2023-05-21,Cricket,Men,field,Indian Premier League
+162,Gujarat Titans,Royal Challengers Bangalore,Shubman Gill,198,61,"M Chinnaswamy Stadium, Bengaluru",2023-05-21,Cricket,Men,field,Indian Premier League
+163,Chennai Super Kings,Gujarat Titans,RD Gaikwad,173,76,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-23,Cricket,Men,field,Indian Premier League
+164,Mumbai Indians,Lucknow Super Giants,Akash Madhwal,183,65,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-24,Cricket,Men,bat,Indian Premier League
+165,Gujarat Titans,Mumbai Indians,Shubman Gill,234,104,"Narendra Modi Stadium, Ahmedabad",2023-05-26,Cricket,Men,field,Indian Premier League
+166,Chennai Super Kings,Gujarat Titans,DP Conway,171,60,"Narendra Modi Stadium, Ahmedabad",2023-05-29,Cricket,Men,field,Indian Premier League
+167,Chennai Super Kings,Royal Challengers Bangalore,Mustafizur Rahman,174,45,"MA Chidambaram Stadium, Chepauk, Chennai",2024-03-22,Cricket,Men,bat,Indian Premier League
+168,Punjab Kings,Delhi Capitals,SM Curran,175,93,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-03-23,Cricket,Men,field,Indian Premier League
+169,Kolkata Knight Riders,Sunrisers Hyderabad,AD Russell,209,66,"Eden Gardens, Kolkata",2024-03-23,Cricket,Men,field,Indian Premier League
+170,Rajasthan Royals,Lucknow Super Giants,SV Samson,194,99,"Sawai Mansingh Stadium, Jaipur",2024-03-24,Cricket,Men,bat,Indian Premier League
+171,Gujarat Titans,Mumbai Indians,B Sai Sudharsan,169,83,"Narendra Modi Stadium, Ahmedabad",2024-03-24,Cricket,Men,field,Indian Premier League
+172,Royal Challengers Bangalore,Punjab Kings,V Kohli,177,96,"M Chinnaswamy Stadium, Bengaluru",2024-03-25,Cricket,Men,field,Indian Premier League
+173,Chennai Super Kings,Gujarat Titans,S Dube,207,89,"MA Chidambaram Stadium, Chepauk, Chennai",2024-03-26,Cricket,Men,field,Indian Premier League
+174,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,278,94,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-03-27,Cricket,Men,field,Indian Premier League
+175,Rajasthan Royals,Delhi Capitals,R Parag,186,96,"Sawai Mansingh Stadium, Jaipur",2024-03-28,Cricket,Men,field,Indian Premier League
+176,Kolkata Knight Riders,Royal Challengers Bangalore,SP Narine,183,59,"M Chinnaswamy Stadium, Bengaluru",2024-03-29,Cricket,Men,field,Indian Premier League
+177,Lucknow Super Giants,Punjab Kings,MP Yadav,200,61,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-03-30,Cricket,Men,bat,Indian Premier League
+178,Gujarat Titans,Sunrisers Hyderabad,MM Sharma,163,42,"Narendra Modi Stadium, Ahmedabad",2024-03-31,Cricket,Men,bat,Indian Premier League
+179,Delhi Capitals,Chennai Super Kings,KK Ahmed,192,77,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2024-03-31,Cricket,Men,bat,Indian Premier League
+180,Rajasthan Royals,Mumbai Indians,TA Boult,126,56,"Wankhede Stadium, Mumbai",2024-04-01,Cricket,Men,field,Indian Premier League
+181,Lucknow Super Giants,Royal Challengers Bangalore,MP Yadav,182,96,"M Chinnaswamy Stadium, Bengaluru",2024-04-02,Cricket,Men,field,Indian Premier League
+182,Kolkata Knight Riders,Delhi Capitals,SP Narine,273,106,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2024-04-03,Cricket,Men,bat,Indian Premier League
+183,Punjab Kings,Gujarat Titans,Shashank Singh,200,101,"Narendra Modi Stadium, Ahmedabad",2024-04-04,Cricket,Men,field,Indian Premier League
+184,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,166,81,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-04-05,Cricket,Men,field,Indian Premier League
+185,Rajasthan Royals,Royal Challengers Bangalore,JC Buttler,184,68,"Sawai Mansingh Stadium, Jaipur",2024-04-06,Cricket,Men,field,Indian Premier League
+186,Mumbai Indians,Delhi Capitals,R Shepherd,235,76,"Wankhede Stadium, Mumbai",2024-04-07,Cricket,Men,field,Indian Premier League
+187,Lucknow Super Giants,Gujarat Titans,Yash Thakur,164,65,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-07,Cricket,Men,bat,Indian Premier League
+188,Chennai Super Kings,Kolkata Knight Riders,RA Jadeja,138,65,"MA Chidambaram Stadium, Chepauk, Chennai",2024-04-08,Cricket,Men,field,Indian Premier League
+189,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,183,65,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-09,Cricket,Men,field,Indian Premier League
+190,Gujarat Titans,Rajasthan Royals,Rashid Khan,197,76,"Sawai Mansingh Stadium, Jaipur",2024-04-10,Cricket,Men,field,Indian Premier League
+191,Mumbai Indians,Royal Challengers Bangalore,JJ Bumrah,197,79,"Wankhede Stadium, Mumbai",2024-04-11,Cricket,Men,field,Indian Premier League
+192,Delhi Capitals,Lucknow Super Giants,Kuldeep Yadav,168,81,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-12,Cricket,Men,bat,Indian Premier League
+193,Rajasthan Royals,Punjab Kings,SO Hetmyer,148,72,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-13,Cricket,Men,field,Indian Premier League
+194,Kolkata Knight Riders,Lucknow Super Giants,PD Salt,162,77,"Eden Gardens, Kolkata",2024-04-14,Cricket,Men,field,Indian Premier League
+195,Chennai Super Kings,Mumbai Indians,M Pathirana,207,99,"Wankhede Stadium, Mumbai",2024-04-14,Cricket,Men,field,Indian Premier League
+196,Sunrisers Hyderabad,Royal Challengers Bangalore,TM Head,288,115,"M Chinnaswamy Stadium, Bengaluru",2024-04-15,Cricket,Men,field,Indian Premier League
+197,Rajasthan Royals,Kolkata Knight Riders,JC Buttler,224,84,"Eden Gardens, Kolkata",2024-04-16,Cricket,Men,field,Indian Premier League
+198,Delhi Capitals,Gujarat Titans,RR Pant,90,30,"Narendra Modi Stadium, Ahmedabad",2024-04-17,Cricket,Men,field,Indian Premier League
+199,Mumbai Indians,Punjab Kings,JJ Bumrah,193,57,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-18,Cricket,Men,field,Indian Premier League
+200,Lucknow Super Giants,Chennai Super Kings,KL Rahul,177,82,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-19,Cricket,Men,field,Indian Premier League
+201,Sunrisers Hyderabad,Delhi Capitals,TM Head,267,85,"Arun Jaitley Stadium, Delhi",2024-04-20,Cricket,Men,field,Indian Premier League
+202,Kolkata Knight Riders,Royal Challengers Bangalore,AD Russell,223,118,"Eden Gardens, Kolkata",2024-04-21,Cricket,Men,field,Indian Premier League
+203,Gujarat Titans,Punjab Kings,R Sai Kishore,143,68,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-21,Cricket,Men,bat,Indian Premier League
+204,Rajasthan Royals,Mumbai Indians,Sandeep Sharma,180,48,"Sawai Mansingh Stadium, Jaipur",2024-04-22,Cricket,Men,bat,Indian Premier League
+205,Lucknow Super Giants,Chennai Super Kings,MP Stoinis,211,78,"MA Chidambaram Stadium, Chepauk, Chennai",2024-04-23,Cricket,Men,field,Indian Premier League
+206,Delhi Capitals,Gujarat Titans,RR Pant,225,66,"Arun Jaitley Stadium, Delhi",2024-04-24,Cricket,Men,field,Indian Premier League
+207,Royal Challengers Bangalore,Sunrisers Hyderabad,RM Patidar,207,53,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-04-25,Cricket,Men,bat,Indian Premier League
+208,Punjab Kings,Kolkata Knight Riders,JM Bairstow,262,106,"Eden Gardens, Kolkata",2024-04-26,Cricket,Men,field,Indian Premier League
+209,Delhi Capitals,Mumbai Indians,J Fraser-McGurk,258,110,"Arun Jaitley Stadium, Delhi",2024-04-27,Cricket,Men,field,Indian Premier League
+210,Rajasthan Royals,Lucknow Super Giants,SV Samson,197,82,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-27,Cricket,Men,field,Indian Premier League
+211,Royal Challengers Bangalore,Gujarat Titans,WG Jacks,201,63,"Narendra Modi Stadium, Ahmedabad",2024-04-28,Cricket,Men,field,Indian Premier League
+212,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,213,68,"MA Chidambaram Stadium, Chepauk, Chennai",2024-04-28,Cricket,Men,field,Indian Premier League
+213,Kolkata Knight Riders,Delhi Capitals,CV Varun,154,43,"Eden Gardens, Kolkata",2024-04-29,Cricket,Men,bat,Indian Premier League
+214,Lucknow Super Giants,Mumbai Indians,MP Stoinis,145,57,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-30,Cricket,Men,field,Indian Premier League
+215,Punjab Kings,Chennai Super Kings,Harpreet Brar,163,55,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-01,Cricket,Men,field,Indian Premier League
+216,Sunrisers Hyderabad,Rajasthan Royals,B Kumar,202,83,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-05-02,Cricket,Men,bat,Indian Premier League
+217,Kolkata Knight Riders,Mumbai Indians,VR Iyer,170,91,"Wankhede Stadium, Mumbai",2024-05-03,Cricket,Men,field,Indian Premier League
+218,Royal Challengers Bangalore,Gujarat Titans,Mohammed Siraj,148,46,"M Chinnaswamy Stadium, Bengaluru",2024-05-04,Cricket,Men,field,Indian Premier League
+219,Chennai Super Kings,Punjab Kings,RA Jadeja,168,51,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2024-05-05,Cricket,Men,field,Indian Premier League
+220,Kolkata Knight Riders,Lucknow Super Giants,SP Narine,236,115,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-05-05,Cricket,Men,field,Indian Premier League
+221,Mumbai Indians,Sunrisers Hyderabad,SA Yadav,174,51,"Wankhede Stadium, Mumbai",2024-05-06,Cricket,Men,field,Indian Premier League
+222,Delhi Capitals,Rajasthan Royals,Kuldeep Yadav,222,89,"Arun Jaitley Stadium, Delhi",2024-05-07,Cricket,Men,field,Indian Premier League
+223,Sunrisers Hyderabad,Lucknow Super Giants,TM Head,166,79,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-05-08,Cricket,Men,bat,Indian Premier League
+224,Royal Challengers Bangalore,Punjab Kings,V Kohli,242,84,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2024-05-09,Cricket,Men,field,Indian Premier League
+225,Gujarat Titans,Chennai Super Kings,Shubman Gill,232,89,"Narendra Modi Stadium, Ahmedabad",2024-05-10,Cricket,Men,field,Indian Premier League
+226,Kolkata Knight Riders,Mumbai Indians,CV Varun,158,71,"Eden Gardens, Kolkata",2024-05-11,Cricket,Men,field,Indian Premier League
+227,Chennai Super Kings,Rajasthan Royals,Simarjeet Singh,142,39,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-12,Cricket,Men,bat,Indian Premier League
+228,Royal Challengers Bangalore,Delhi Capitals,C Green,188,83,"M Chinnaswamy Stadium, Bengaluru",2024-05-12,Cricket,Men,field,Indian Premier League
+229,Delhi Capitals,Lucknow Super Giants,I Sharma,209,125,"Arun Jaitley Stadium, Delhi",2024-05-14,Cricket,Men,field,Indian Premier League
+230,Punjab Kings,Rajasthan Royals,SM Curran,145,68,"Barsapara Cricket Stadium, Guwahati",2024-05-15,Cricket,Men,bat,Indian Premier League
+231,Lucknow Super Giants,Mumbai Indians,N Pooran,215,109,"Wankhede Stadium, Mumbai",2024-05-17,Cricket,Men,field,Indian Premier League
+232,Royal Challengers Bangalore,Chennai Super Kings,F du Plessis,219,119,"M Chinnaswamy Stadium, Bengaluru",2024-05-18,Cricket,Men,field,Indian Premier League
+233,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,215,69,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-05-19,Cricket,Men,bat,Indian Premier League
+234,Kolkata Knight Riders,Sunrisers Hyderabad,MA Starc,160,53,"Narendra Modi Stadium, Ahmedabad",2024-05-21,Cricket,Men,bat,Indian Premier League
+235,Rajasthan Royals,Royal Challengers Bangalore,R Ashwin,173,44,"Narendra Modi Stadium, Ahmedabad",2024-05-22,Cricket,Men,field,Indian Premier League
+236,Sunrisers Hyderabad,Rajasthan Royals,Shahbaz Ahmed,176,69,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-24,Cricket,Men,field,Indian Premier League
+237,Kolkata Knight Riders,Sunrisers Hyderabad,MA Starc,114,55,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-26,Cricket,Men,bat,Indian Premier League
+238,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,202,82,Royal Challengers Bangalore Stadium,2025-04-01,Cricket,Men,Bowl,Indian Premier League
+239,Delhi Capitals,Kolkata Knight Riders,Kuldeep Yadav,180,59,Delhi Capitals Stadium,2025-04-02,Cricket,Men,Bat,Indian Premier League
+240,Sunrisers Hyderabad,Mumbai Indians,Travis Head,210,96,Sunrisers Hyderabad Stadium,2025-04-03,Cricket,Men,Bowl,Indian Premier League
+241,Rajasthan Royals,Royal Challengers Bangalore,Sanju Samson,181,101,Rajasthan Royals Stadium,2025-04-04,Cricket,Men,Bat,Indian Premier League
+242,Delhi Capitals,Rajasthan Royals,Axar Patel,156,66,Delhi Capitals Stadium,2025-04-05,Cricket,Men,Bat,Indian Premier League
+243,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,214,128,Royal Challengers Bangalore Stadium,2025-04-06,Cricket,Men,Bat,Indian Premier League
+244,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,176,101,Kolkata Knight Riders Stadium,2025-04-07,Cricket,Men,Bowl,Indian Premier League
+245,Sunrisers Hyderabad,Gujarat Titans,Abhishek Sharma,166,99,Sunrisers Hyderabad Stadium,2025-04-08,Cricket,Men,Bat,Indian Premier League
+246,Kolkata Knight Riders,Royal Challengers Bangalore,Rinku Singh,181,105,Kolkata Knight Riders Stadium,2025-04-09,Cricket,Men,Bat,Indian Premier League
+247,Rajasthan Royals,Delhi Capitals,Yashasvi Jaiswal,197,76,Rajasthan Royals Stadium,2025-04-10,Cricket,Men,Bowl,Indian Premier League
+248,Rajasthan Royals,Chennai Super Kings,Yuzvendra Chahal,201,51,Rajasthan Royals Stadium,2025-04-11,Cricket,Men,Bat,Indian Premier League
+249,Rajasthan Royals,Lucknow Super Giants,Yuzvendra Chahal,162,50,Rajasthan Royals Stadium,2025-04-12,Cricket,Men,Bowl,Indian Premier League
+250,Delhi Capitals,Sunrisers Hyderabad,Rishabh Pant,156,74,Delhi Capitals Stadium,2025-04-13,Cricket,Men,Bat,Indian Premier League
+251,Gujarat Titans,Sunrisers Hyderabad,Shubman Gill,177,61,Gujarat Titans Stadium,2025-04-14,Cricket,Men,Bat,Indian Premier League
+252,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,212,92,Chennai Super Kings Stadium,2025-04-15,Cricket,Men,Bat,Indian Premier League
+253,Gujarat Titans,Delhi Capitals,David Miller,208,85,Gujarat Titans Stadium,2025-04-16,Cricket,Men,Bat,Indian Premier League
+254,Chennai Super Kings,Lucknow Super Giants,Shivam Dube,145,62,Chennai Super Kings Stadium,2025-04-17,Cricket,Men,Bowl,Indian Premier League
+255,Chennai Super Kings,Rajasthan Royals,Ruturaj Gaikwad,140,62,Chennai Super Kings Stadium,2025-04-18,Cricket,Men,Bat,Indian Premier League
+256,Punjab Kings,Delhi Capitals,Shashank Singh,157,55,Punjab Kings Stadium,2025-04-19,Cricket,Men,Bat,Indian Premier League
+257,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,173,79,Mumbai Indians Stadium,2025-04-20,Cricket,Men,Bowl,Indian Premier League
+258,Lucknow Super Giants,Royal Challengers Bangalore,Ravi Bishnoi,219,87,Lucknow Super Giants Stadium,2025-04-21,Cricket,Men,Bowl,Indian Premier League
+259,Sunrisers Hyderabad,Kolkata Knight Riders,Abhishek Sharma,154,52,Sunrisers Hyderabad Stadium,2025-04-22,Cricket,Men,Bowl,Indian Premier League
+260,Gujarat Titans,Sunrisers Hyderabad,David Miller,179,85,Gujarat Titans Stadium,2025-04-23,Cricket,Men,Bowl,Indian Premier League
+261,Rajasthan Royals,Punjab Kings,Yuzvendra Chahal,197,53,Rajasthan Royals Stadium,2025-04-24,Cricket,Men,Bat,Indian Premier League
+262,Mumbai Indians,Chennai Super Kings,Hardik Pandya,149,48,Mumbai Indians Stadium,2025-04-25,Cricket,Men,Bat,Indian Premier League
+263,Royal Challengers Bangalore,Lucknow Super Giants,Glenn Maxwell,175,96,Royal Challengers Bangalore Stadium,2025-04-26,Cricket,Men,Bowl,Indian Premier League
+264,Royal Challengers Bangalore,Rajasthan Royals,Mohammed Siraj,161,87,Royal Challengers Bangalore Stadium,2025-04-27,Cricket,Men,Bowl,Indian Premier League
+265,Delhi Capitals,Royal Challengers Bangalore,Axar Patel,168,55,Delhi Capitals Stadium,2025-04-28,Cricket,Men,Bat,Indian Premier League
+266,Lucknow Super Giants,Mumbai Indians,Ravi Bishnoi,171,53,Lucknow Super Giants Stadium,2025-04-29,Cricket,Men,Bat,Indian Premier League
+267,Gujarat Titans,Kolkata Knight Riders,Rashid Khan,167,47,Gujarat Titans Stadium,2025-04-30,Cricket,Men,Bat,Indian Premier League
+268,Delhi Capitals,Kolkata Knight Riders,Rishabh Pant,212,86,Delhi Capitals Stadium,2026-04-01,Cricket,Men,Bowl,Indian Premier League
+269,Sunrisers Hyderabad,Punjab Kings,Heinrich Klaasen,189,88,Sunrisers Hyderabad Stadium,2026-04-02,Cricket,Men,Bat,Indian Premier League
+270,Rajasthan Royals,Delhi Capitals,Yuzvendra Chahal,201,111,Rajasthan Royals Stadium,2026-04-03,Cricket,Men,Bowl,Indian Premier League
+271,Kolkata Knight Riders,Punjab Kings,Phil Salt,165,57,Kolkata Knight Riders Stadium,2026-04-04,Cricket,Men,Bowl,Indian Premier League
+272,Lucknow Super Giants,Chennai Super Kings,KL Rahul,225,105,Lucknow Super Giants Stadium,2026-04-05,Cricket,Men,Bat,Indian Premier League
+273,Mumbai Indians,Lucknow Super Giants,Tilak Varma,180,73,Mumbai Indians Stadium,2026-04-06,Cricket,Men,Bowl,Indian Premier League
+274,Delhi Capitals,Mumbai Indians,Axar Patel,196,105,Delhi Capitals Stadium,2026-04-07,Cricket,Men,Bat,Indian Premier League
+275,Gujarat Titans,Royal Challengers Bangalore,Rashid Khan,214,68,Gujarat Titans Stadium,2026-04-08,Cricket,Men,Bowl,Indian Premier League
+276,Royal Challengers Bangalore,Punjab Kings,Glenn Maxwell,168,61,Royal Challengers Bangalore Stadium,2026-04-09,Cricket,Men,Bat,Indian Premier League
+277,Kolkata Knight Riders,Sunrisers Hyderabad,Phil Salt,209,57,Kolkata Knight Riders Stadium,2026-04-10,Cricket,Men,Bowl,Indian Premier League
+278,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,199,63,Royal Challengers Bangalore Stadium,2026-04-11,Cricket,Men,Bowl,Indian Premier League
+279,Gujarat Titans,Royal Challengers Bangalore,David Miller,174,44,Gujarat Titans Stadium,2026-04-12,Cricket,Men,Bowl,Indian Premier League
+280,Kolkata Knight Riders,Gujarat Titans,Sunil Narine,217,62,Kolkata Knight Riders Stadium,2026-04-13,Cricket,Men,Bowl,Indian Premier League
+281,Delhi Capitals,Chennai Super Kings,Kuldeep Yadav,229,63,Delhi Capitals Stadium,2026-04-14,Cricket,Men,Bowl,Indian Premier League
+282,Lucknow Super Giants,Rajasthan Royals,Ravi Bishnoi,184,51,Lucknow Super Giants Stadium,2026-04-15,Cricket,Men,Bowl,Indian Premier League
+283,Delhi Capitals,Mumbai Indians,Axar Patel,162,78,Delhi Capitals Stadium,2026-04-16,Cricket,Men,Bat,Indian Premier League
+284,Chennai Super Kings,Sunrisers Hyderabad,Ruturaj Gaikwad,209,70,Chennai Super Kings Stadium,2026-04-17,Cricket,Men,Bowl,Indian Premier League
+285,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,159,82,Kolkata Knight Riders Stadium,2026-04-18,Cricket,Men,Bat,Indian Premier League
+286,Rajasthan Royals,Gujarat Titans,Jos Buttler,164,48,Rajasthan Royals Stadium,2026-04-19,Cricket,Men,Bat,Indian Premier League
+287,Gujarat Titans,Delhi Capitals,David Miller,218,76,Gujarat Titans Stadium,2026-04-20,Cricket,Men,Bat,Indian Premier League
+288,Delhi Capitals,Rajasthan Royals,Kuldeep Yadav,229,64,Delhi Capitals Stadium,2026-04-21,Cricket,Men,Bowl,Indian Premier League
+289,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,191,103,Kolkata Knight Riders Stadium,2026-04-22,Cricket,Men,Bowl,Indian Premier League
+290,Royal Challengers Bangalore,Punjab Kings,Dinesh Karthik,213,121,Royal Challengers Bangalore Stadium,2026-04-23,Cricket,Men,Bowl,Indian Premier League
+291,Kolkata Knight Riders,Lucknow Super Giants,Shreyas Iyer,195,71,Kolkata Knight Riders Stadium,2026-04-24,Cricket,Men,Bat,Indian Premier League
+292,Mumbai Indians,Lucknow Super Giants,Ishan Kishan,174,60,Mumbai Indians Stadium,2026-04-25,Cricket,Men,Bowl,Indian Premier League
+293,Lucknow Super Giants,Rajasthan Royals,Nicholas Pooran,200,106,Lucknow Super Giants Stadium,2026-04-26,Cricket,Men,Bowl,Indian Premier League
+294,Sunrisers Hyderabad,Lucknow Super Giants,Nitish Kumar Reddy,200,82,Sunrisers Hyderabad Stadium,2026-04-27,Cricket,Men,Bowl,Indian Premier League
+295,Rajasthan Royals,Gujarat Titans,Yashasvi Jaiswal,157,64,Rajasthan Royals Stadium,2026-04-28,Cricket,Men,Bowl,Indian Premier League
+296,Rajasthan Royals,Gujarat Titans,Yashasvi Jaiswal,155,59,Rajasthan Royals Stadium,2026-04-29,Cricket,Men,Bowl,Indian Premier League
+297,Chennai Super Kings,Mumbai Indians,Matheesha Pathirana,194,71,Chennai Super Kings Stadium,2026-04-30,Cricket,Men,Bowl,Indian Premier League
+298,India,Australia,Virat Kohli,358,73,"M. Chinnaswamy Stadium, Bengaluru",2026-06-07,Cricket,Men,,International Cricket
+299,Chennai Super Kings,Mumbai Indians,MS Dhoni,371,117,"M. A. Chidambaram Stadium, Chennai",2026-06-07,Cricket,Men,,Indian Premier League
+300,India,Australia,Rohit Sharma,358,164,"M. Chinnaswamy Stadium, Bengaluru",2026-06-07,Cricket,Men,,International Cricket
+301,Chennai Super Kings,Mumbai Indians,Matheesha Pathirana,371,84,"M. A. Chidambaram Stadium, Chennai",2026-06-07,Cricket,Men,,Indian Premier League
+302,India,Australia,Hardik Pandya,358,151,"M. Chinnaswamy Stadium, Bengaluru",2026-06-07,Cricket,Men,,International Cricket
+303,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,371,172,"M. A. Chidambaram Stadium, Chennai",2026-06-07,Cricket,Men,,Indian Premier League
+304,India,Australia,Jasprit Bumrah,358,161,"M. Chinnaswamy Stadium, Bengaluru",2026-06-07,Cricket,Men,,International Cricket
+305,Chennai Super Kings,Mumbai Indians,Matheesha Pathirana,371,144,"M. A. Chidambaram Stadium, Chennai",2026-06-07,Cricket,Men,,Indian Premier League
+306,India,Australia,Jasprit Bumrah,358,138,"M. Chinnaswamy Stadium, Bengaluru",2026-06-07,Cricket,Men,,International Cricket
+307,Chennai Super Kings,Mumbai Indians,Matheesha Pathirana,371,148,"M. A. Chidambaram Stadium, Chennai",2026-06-07,Cricket,Men,,Indian Premier League
+308,India,Australia,Virat Kohli,358,92,"M. Chinnaswamy Stadium, Bengaluru",2026-06-07,Cricket,Men,,International Cricket
+309,Chennai Super Kings,Mumbai Indians,Ravindra Jadeja,371,117,"M. A. Chidambaram Stadium, Chennai",2026-06-07,Cricket,Men,,Indian Premier League
+310,India,Australia,Suryakumar Yadav,358,109,"M. Chinnaswamy Stadium, Bengaluru",2026-06-07,Cricket,Men,,International Cricket
+311,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,371,114,"M. A. Chidambaram Stadium, Chennai",2026-06-07,Cricket,Men,,Indian Premier League
+312,New Zealand Women,Bangladesh Women,New Zealand Women,318,72,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+313,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,93,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+314,South Africa Women,Ireland Women,South Africa Women,255,95,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+315,Scotland Women,Netherlands Women,Scotland Women,268,97,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+316,United States of America,Canada,United States of America,466,160,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+317,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,115,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+318,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,58,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+319,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,170,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+320,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,178,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+321,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,132,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+322,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,91,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+323,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,100,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+324,England,New Zealand,Harry Brook,617,134,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+325,Oman Women,Philippines Women,Oman Women,238,94,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+326,Japan Women,Bahrain Women,Japan Women,236,77,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+327,United Arab Emirates Women,China Women,United Arab Emirates Women,76,27,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+328,Thailand Women,Myanmar Women,Thailand Women,65,21,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+329,Mongolia Women,Bahrain Women,Mongolia Women,195,58,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+330,Oman Women,Saudi Arabia Women,Oman Women,77,35,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+331,Kuwait Women,Singapore Women,Kuwait Women,191,61,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+332,Hong Kong,Nepal Women,Hong Kong,149,62,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+333,Indonesia Women,Malaysia Women,Indonesia Women,175,81,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+334,China Women,Philippines Women,China Women,207,43,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+335,New Zealand Women,Bangladesh Women,New Zealand Women,318,135,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+336,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,101,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+337,South Africa Women,Ireland Women,South Africa Women,255,97,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+338,Scotland Women,Netherlands Women,Scotland Women,268,102,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+339,United States of America,Canada,United States of America,466,185,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+340,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,74,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+341,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,44,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+342,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,187,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+343,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,184,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+344,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,123,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+345,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,140,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+346,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,103,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+347,England,New Zealand,Joe Root,617,189,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+348,Oman Women,Philippines Women,Oman Women,238,93,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+349,Japan Women,Bahrain Women,Japan Women,236,103,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+350,United Arab Emirates Women,China Women,United Arab Emirates Women,76,36,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+351,Thailand Women,Myanmar Women,Thailand Women,65,24,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+352,Mongolia Women,Bahrain Women,Mongolia Women,195,83,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+353,Oman Women,Saudi Arabia Women,Oman Women,77,26,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+354,Kuwait Women,Singapore Women,Kuwait Women,191,42,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+355,Hong Kong,Nepal Women,Hong Kong,149,40,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+356,Indonesia Women,Malaysia Women,Indonesia Women,175,40,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+357,China Women,Philippines Women,China Women,207,59,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+358,New Zealand Women,Bangladesh Women,New Zealand Women,318,124,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+359,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,99,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+360,South Africa Women,Ireland Women,South Africa Women,255,76,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+361,Scotland Women,Netherlands Women,Scotland Women,268,54,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+362,United States of America,Canada,United States of America,466,114,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+363,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,87,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+364,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,40,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+365,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,139,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+366,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,155,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+367,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,98,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+368,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,65,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+369,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,97,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+370,England,New Zealand,Jos Buttler,617,145,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+371,Oman Women,Philippines Women,Oman Women,238,70,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+372,Japan Women,Bahrain Women,Japan Women,236,105,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+373,United Arab Emirates Women,China Women,United Arab Emirates Women,76,34,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+374,Thailand Women,Myanmar Women,Thailand Women,65,22,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+375,Mongolia Women,Bahrain Women,Mongolia Women,195,41,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+376,Oman Women,Saudi Arabia Women,Oman Women,77,23,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+377,Kuwait Women,Singapore Women,Kuwait Women,191,56,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+378,Hong Kong,Nepal Women,Hong Kong,149,58,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+379,Indonesia Women,Malaysia Women,Indonesia Women,175,63,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+380,China Women,Philippines Women,China Women,207,101,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+381,New Zealand Women,Bangladesh Women,New Zealand Women,318,155,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+382,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,155,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+383,South Africa Women,Ireland Women,South Africa Women,255,85,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+384,Scotland Women,Netherlands Women,Scotland Women,268,75,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+385,United States of America,Canada,United States of America,466,120,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+386,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,114,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+387,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,78,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+388,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,66,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+389,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,178,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+390,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,111,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+391,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,107,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+392,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,76,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+393,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,83,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+394,England,New Zealand,Ben Stokes,617,148,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+395,Oman Women,Philippines Women,Oman Women,238,95,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+396,Japan Women,Bahrain Women,Japan Women,236,63,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+397,United Arab Emirates Women,China Women,United Arab Emirates Women,76,28,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+398,Thailand Women,Myanmar Women,Thailand Women,65,27,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+399,Mongolia Women,Bahrain Women,Mongolia Women,195,91,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+400,Oman Women,Saudi Arabia Women,Oman Women,77,27,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+401,Kuwait Women,Singapore Women,Kuwait Women,191,38,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+402,Hong Kong,Nepal Women,Hong Kong,149,73,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+403,Indonesia Women,Malaysia Women,Indonesia Women,175,62,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+404,China Women,Philippines Women,China Women,207,47,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+405,New Zealand Women,Bangladesh Women,New Zealand Women,318,146,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+406,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,114,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+407,South Africa Women,Ireland Women,South Africa Women,255,114,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+408,Scotland Women,Netherlands Women,Scotland Women,268,83,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+409,United States of America,Canada,United States of America,466,183,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+410,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,108,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+411,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,66,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+412,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,73,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+413,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,104,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+414,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,137,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+415,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,154,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+416,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,152,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+417,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,93,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+418,England,New Zealand,Joe Root,617,142,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+419,Oman Women,Philippines Women,Oman Women,238,100,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+420,Japan Women,Bahrain Women,Japan Women,236,56,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+421,United Arab Emirates Women,China Women,United Arab Emirates Women,76,16,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+422,Thailand Women,Myanmar Women,Thailand Women,65,15,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+423,Mongolia Women,Bahrain Women,Mongolia Women,195,68,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+424,Oman Women,Saudi Arabia Women,Oman Women,77,18,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+425,Kuwait Women,Singapore Women,Kuwait Women,191,51,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+426,Hong Kong,Nepal Women,Hong Kong,149,45,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+427,Indonesia Women,Malaysia Women,Indonesia Women,175,63,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+428,China Women,Philippines Women,China Women,207,91,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+429,New Zealand Women,Bangladesh Women,New Zealand Women,318,128,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+430,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,72,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+431,South Africa Women,Ireland Women,South Africa Women,255,101,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+432,Scotland Women,Netherlands Women,Scotland Women,268,120,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+433,United States of America,Canada,United States of America,466,128,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+434,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,145,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+435,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,93,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+436,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,39,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+437,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,153,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+438,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,123,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+439,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,70,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+440,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,97,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+441,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,154,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+442,England,New Zealand,Joe Root,617,216,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+443,Oman Women,Philippines Women,Oman Women,238,70,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+444,Japan Women,Bahrain Women,Japan Women,236,91,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+445,United Arab Emirates Women,China Women,United Arab Emirates Women,76,25,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+446,Thailand Women,Myanmar Women,Thailand Women,65,14,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+447,Mongolia Women,Bahrain Women,Mongolia Women,195,58,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+448,Oman Women,Saudi Arabia Women,Oman Women,77,17,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+449,Kuwait Women,Singapore Women,Kuwait Women,191,61,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+450,Hong Kong,Nepal Women,Hong Kong,149,50,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+451,Indonesia Women,Malaysia Women,Indonesia Women,175,52,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+452,China Women,Philippines Women,China Women,207,70,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+453,New Zealand Women,Bangladesh Women,New Zealand Women,318,68,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+454,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,136,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+455,South Africa Women,Ireland Women,South Africa Women,255,94,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+456,Scotland Women,Netherlands Women,Scotland Women,268,113,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+457,United States of America,Canada,United States of America,466,133,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+458,Gwalior Cheetahs,Malwa Stallions,Gwalior Cheetahs,329,84,"Daly College Ground, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+459,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,143,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+460,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,74,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+461,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,87,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+462,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,199,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+463,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,141,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+464,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,117,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+465,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,166,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+466,England,New Zealand,Harry Brook,617,166,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+467,Oman Women,Philippines Women,Oman Women,238,58,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+468,Japan Women,Bahrain Women,Japan Women,236,104,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+469,United Arab Emirates Women,China Women,United Arab Emirates Women,76,16,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+470,Thailand Women,Myanmar Women,Thailand Women,65,19,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+471,Mongolia Women,Bahrain Women,Mongolia Women,195,56,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+472,Oman Women,Saudi Arabia Women,Oman Women,77,18,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+473,Kuwait Women,Singapore Women,Kuwait Women,191,58,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+474,Hong Kong,Nepal Women,Hong Kong,149,40,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+475,Indonesia Women,Malaysia Women,Indonesia Women,175,47,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+476,China Women,Philippines Women,China Women,207,62,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+477,New Zealand Women,Bangladesh Women,New Zealand Women,318,71,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+478,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,100,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+479,South Africa Women,Ireland Women,South Africa Women,255,127,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+480,Scotland Women,Netherlands Women,Scotland Women,268,89,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+481,United States of America,Canada,United States of America,466,152,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+482,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,141,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+483,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,84,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+484,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,62,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+485,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,176,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+486,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,180,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+487,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,136,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+488,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,89,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+489,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,115,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+490,England,New Zealand,Jos Buttler,617,268,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+491,Oman Women,Philippines Women,Oman Women,238,86,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+492,Japan Women,Bahrain Women,Japan Women,236,98,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+493,United Arab Emirates Women,China Women,United Arab Emirates Women,76,18,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+494,Thailand Women,Myanmar Women,Thailand Women,65,27,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+495,Mongolia Women,Bahrain Women,Mongolia Women,195,68,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+496,Oman Women,Saudi Arabia Women,Oman Women,77,24,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+497,Kuwait Women,Singapore Women,Kuwait Women,191,82,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+498,Hong Kong,Nepal Women,Hong Kong,149,49,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+499,Indonesia Women,Malaysia Women,Indonesia Women,175,40,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+500,China Women,Philippines Women,China Women,207,95,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+501,New Zealand Women,Bangladesh Women,New Zealand Women,318,147,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+502,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,128,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+503,South Africa Women,Ireland Women,South Africa Women,255,121,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+504,Scotland Women,Netherlands Women,Scotland Women,268,131,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+505,United States of America,Canada,United States of America,466,136,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+506,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,138,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+507,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,101,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+508,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,66,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+509,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,86,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+510,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,195,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+511,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,135,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+512,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,117,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+513,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,71,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+514,England,New Zealand,Jofra Archer,617,227,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+515,Oman Women,Philippines Women,Oman Women,238,111,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+516,Japan Women,Bahrain Women,Japan Women,236,79,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+517,United Arab Emirates Women,China Women,United Arab Emirates Women,76,16,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+518,Thailand Women,Myanmar Women,Thailand Women,65,30,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+519,Mongolia Women,Bahrain Women,Mongolia Women,195,74,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+520,Oman Women,Saudi Arabia Women,Oman Women,77,36,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+521,Kuwait Women,Singapore Women,Kuwait Women,191,43,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+522,Hong Kong,Nepal Women,Hong Kong,149,62,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+523,Indonesia Women,Malaysia Women,Indonesia Women,175,67,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+524,China Women,Philippines Women,China Women,207,98,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+525,New Zealand Women,Bangladesh Women,New Zealand Women,318,83,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+526,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,101,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+527,South Africa Women,Ireland Women,South Africa Women,255,104,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+528,Scotland Women,Netherlands Women,Scotland Women,268,68,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+529,United States of America,Canada,United States of America,466,153,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+530,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,82,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+531,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,121,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+532,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,60,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+533,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,137,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+534,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,118,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+535,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,114,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+536,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,91,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+537,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,130,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+538,England,New Zealand,Jos Buttler,617,194,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+539,Oman Women,Philippines Women,Oman Women,238,77,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+540,Japan Women,Bahrain Women,Japan Women,236,109,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+541,United Arab Emirates Women,China Women,United Arab Emirates Women,76,30,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+542,Thailand Women,Myanmar Women,Thailand Women,65,31,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+543,Mongolia Women,Bahrain Women,Mongolia Women,195,66,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+544,Oman Women,Saudi Arabia Women,Oman Women,77,22,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+545,Kuwait Women,Singapore Women,Kuwait Women,191,84,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+546,Hong Kong,Nepal Women,Hong Kong,149,44,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+547,Indonesia Women,Malaysia Women,Indonesia Women,175,72,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+548,China Women,Philippines Women,China Women,207,78,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+549,New Zealand Women,Bangladesh Women,New Zealand Women,318,69,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+550,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,90,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+551,South Africa Women,Ireland Women,South Africa Women,255,98,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+552,Scotland Women,Netherlands Women,Scotland Women,268,134,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+553,United States of America,Canada,United States of America,466,142,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+554,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,64,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+555,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,89,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+556,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,48,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+557,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,179,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+558,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,177,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+559,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,71,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+560,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,94,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+561,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,155,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+562,England,New Zealand,Jos Buttler,617,182,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+563,Oman Women,Philippines Women,Oman Women,238,51,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+564,Japan Women,Bahrain Women,Japan Women,236,57,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+565,United Arab Emirates Women,China Women,United Arab Emirates Women,76,26,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+566,Thailand Women,Myanmar Women,Thailand Women,65,16,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+567,Mongolia Women,Bahrain Women,Mongolia Women,195,94,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+568,Oman Women,Saudi Arabia Women,Oman Women,77,30,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+569,Kuwait Women,Singapore Women,Kuwait Women,191,69,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+570,Hong Kong,Nepal Women,Hong Kong,149,64,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+571,Indonesia Women,Malaysia Women,Indonesia Women,175,56,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+572,China Women,Philippines Women,China Women,207,94,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+573,New Zealand Women,Bangladesh Women,New Zealand Women,318,103,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+574,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,99,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+575,South Africa Women,Ireland Women,South Africa Women,255,87,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+576,Scotland Women,Netherlands Women,Scotland Women,268,96,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+577,United States of America,Canada,United States of America,466,144,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+578,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,146,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+579,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,64,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+580,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,43,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+581,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,171,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+582,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,180,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+583,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,95,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+584,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,69,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+585,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,135,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+586,England,New Zealand,Joe Root,617,283,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+587,Oman Women,Philippines Women,Oman Women,238,61,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+588,Japan Women,Bahrain Women,Japan Women,236,106,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+589,United Arab Emirates Women,China Women,United Arab Emirates Women,76,20,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+590,Thailand Women,Myanmar Women,Thailand Women,65,13,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+591,Mongolia Women,Bahrain Women,Mongolia Women,195,83,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+592,Oman Women,Saudi Arabia Women,Oman Women,77,37,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+593,Kuwait Women,Singapore Women,Kuwait Women,191,57,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+594,Hong Kong,Nepal Women,Hong Kong,149,47,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+595,Indonesia Women,Malaysia Women,Indonesia Women,175,74,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+596,China Women,Philippines Women,China Women,207,44,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+597,New Zealand Women,Bangladesh Women,New Zealand Women,318,158,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+598,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,107,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+599,South Africa Women,Ireland Women,South Africa Women,255,120,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+600,Scotland Women,Netherlands Women,Scotland Women,268,87,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+601,United States of America,Canada,United States of America,466,172,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+602,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,82,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+603,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,61,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+604,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,38,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+605,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,199,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+606,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,105,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+607,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,113,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+608,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,101,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+609,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,170,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+610,England,New Zealand,Jofra Archer,617,258,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+611,Oman Women,Philippines Women,Oman Women,238,54,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+612,Japan Women,Bahrain Women,Japan Women,236,112,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+613,United Arab Emirates Women,China Women,United Arab Emirates Women,76,17,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+614,Thailand Women,Myanmar Women,Thailand Women,65,31,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+615,Mongolia Women,Bahrain Women,Mongolia Women,195,78,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+616,Oman Women,Saudi Arabia Women,Oman Women,77,17,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+617,Kuwait Women,Singapore Women,Kuwait Women,191,48,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+618,Hong Kong,Nepal Women,Hong Kong,149,32,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+619,Indonesia Women,Malaysia Women,Indonesia Women,175,57,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+620,China Women,Philippines Women,China Women,207,87,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+621,New Zealand Women,Bangladesh Women,New Zealand Women,318,79,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+622,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,69,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+623,South Africa Women,Ireland Women,South Africa Women,255,55,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+624,Scotland Women,Netherlands Women,Scotland Women,268,133,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+625,United States of America,Canada,United States of America,466,132,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+626,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,89,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+627,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,143,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+628,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,68,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+629,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,172,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+630,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,116,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+631,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,153,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+632,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,63,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+633,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,148,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+634,England,New Zealand,Harry Brook,617,208,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+635,Oman Women,Philippines Women,Oman Women,238,94,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+636,Japan Women,Bahrain Women,Japan Women,236,98,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+637,United Arab Emirates Women,China Women,United Arab Emirates Women,76,31,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+638,Thailand Women,Myanmar Women,Thailand Women,65,32,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+639,Mongolia Women,Bahrain Women,Mongolia Women,195,46,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+640,Oman Women,Saudi Arabia Women,Oman Women,77,17,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+641,Kuwait Women,Singapore Women,Kuwait Women,191,90,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+642,Hong Kong,Nepal Women,Hong Kong,149,31,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+643,Indonesia Women,Malaysia Women,Indonesia Women,175,56,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+644,China Women,Philippines Women,China Women,207,70,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+645,New Zealand Women,Bangladesh Women,New Zealand Women,318,121,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+646,Sri Lanka Women,Pakistan Women,Sri Lanka Women,337,152,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+647,South Africa Women,Ireland Women,South Africa Women,255,114,"Haslegrave Ground, Loughborough",2026-06-06,Cricket,Women,,International Cricket
+648,Scotland Women,Netherlands Women,Scotland Women,268,120,"County Ground, Derby",2026-06-06,Cricket,Women,,International Cricket
+649,United States of America,Canada,United States of America,466,223,"Maple Leaf North-West Ground, King City",2026-06-06,Cricket,Men,,International Cricket
+650,Chambal Ghariyals,Royal Nimar Eagles,Chambal Ghariyals,294,130,"Holkar Stadium, Indore",2026-06-07,Cricket,Men,,Indian Premier League
+651,Jabalpur Royal Lions,Indore Pink Panthers,Jabalpur Royal Lions,297,117,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+652,Rewa Jaguars,Bundelkhand Bulls,Rewa Jaguars,150,53,"Holkar Stadium, Indore",2026-06-06,Cricket,Men,,Indian Premier League
+653,Malwa Stallions,Ujjain Falcons,Malwa Stallions,413,133,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+654,Gwalior Cheetahs,Bhopal Leopards,Gwalior Cheetahs,428,95,"Holkar Stadium, Indore",2026-06-05,Cricket,Men,,Indian Premier League
+655,Bhopal Leopards,Indore Pink Panthers,Bhopal Leopards,321,80,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+656,Chambal Ghariyals,Malwa Stallions,Chambal Ghariyals,311,143,"Holkar Stadium, Indore",2026-06-04,Cricket,Men,,Indian Premier League
+657,Ujjain Falcons,Gwalior Cheetahs,Ujjain Falcons,350,171,"Holkar Stadium, Indore",2026-06-03,Cricket,Men,,Indian Premier League
+658,England,New Zealand,Harry Brook,617,217,"Lord's, London",2026-06-04,Cricket,Men,,International Cricket
+659,Oman Women,Philippines Women,Oman Women,238,62,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+660,Japan Women,Bahrain Women,Japan Women,236,52,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+661,United Arab Emirates Women,China Women,United Arab Emirates Women,76,35,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Cricket,Women,,International Cricket
+662,Thailand Women,Myanmar Women,Thailand Women,65,26,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Cricket,Women,,International Cricket
+663,Mongolia Women,Bahrain Women,Mongolia Women,195,85,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+664,Oman Women,Saudi Arabia Women,Oman Women,77,33,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
+665,Kuwait Women,Singapore Women,Kuwait Women,191,61,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+666,Hong Kong,Nepal Women,Hong Kong,149,68,"Kolej Tuanku Ja'afar Cricket Oval, Mantin",2026-06-06,Cricket,Women,,International Cricket
+667,Indonesia Women,Malaysia Women,Indonesia Women,175,87,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Cricket,Women,,International Cricket
+668,China Women,Philippines Women,China Women,207,82,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Cricket,Women,,International Cricket
